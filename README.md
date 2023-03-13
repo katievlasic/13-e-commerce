@@ -5,5 +5,7 @@
 2. npm install -- save dotenv
 3. npm install -- save sequelize
 4. npm install -- save mysql2
+5. npm install -- save express
+
 
 5. Navigate to '/routes/api' and type 'node index.js'
